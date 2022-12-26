@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @olbeimarton
-- 👀 I’m interested in computational biology, and work as a research scientist in the Earlham Institute
-- 🌱 I’m currently trying to improve my Python/R
+- 👀 I’m interested in computational biology, and work as a research associate at Imperial College London
 - 📫 You can reach me here or on my twitter profile: @martonolbei
 
 <!---
