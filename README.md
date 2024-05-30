@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @olbeimarton
-- 👀 I’m interested in computational biology, and work as a research associate at Imperial College London
+- 👀 I work as a research associate at Imperial College London
 - 📫 You can reach me here or on my twitter profile: @martonolbei
 
 <!---
